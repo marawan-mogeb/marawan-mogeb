@@ -13,11 +13,11 @@
       </p>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="100%" style="border: none;" alt="Coding GIF"/>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border: none;" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
-
+<!-- https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif -->
 <div align="center">
   <!-- Tech stack icons -->
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
